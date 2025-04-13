@@ -1,4 +1,4 @@
-# IPL Analytics 2023–2024
+# IPL Analytics 2008–2024
 
 This project explores match-level and player-level trends in the Indian Premier League using datasets up to 2024.
 
